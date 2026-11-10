@@ -1,0 +1,7 @@
+window,model,MAE,RMSE,WMAE
+Main holdout (39 wks),Seasonal naive (52 weeks),1803.18,3858.52,1804.2
+Main holdout (39 wks),Mean of last 52 weeks,2371.89,4911.09,2420.27
+Main holdout (39 wks),Naive (last value),3126.65,6330.77,3199.36
+Holiday stress test (13 wks),Seasonal naive (52 weeks),2072.74,4708.38,2244.82
+Holiday stress test (13 wks),Mean of last 52 weeks,4051.65,12214.2,4707.62
+Holiday stress test (13 wks),Naive (last value),4089.57,12388.9,4766.56
